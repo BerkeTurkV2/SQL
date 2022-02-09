@@ -1,10 +1,6 @@
 # HW - 1
 
-<<<<<<< HEAD
 ### 1- film tablosunda bulunan title ve description sütunlarındaki verileri sıralayınız.
-=======
-### film tablosunda bulunan title ve description sütunlarındaki verileri sıralayınız.
->>>>>>> 559d3e1eebbdf9312da440c1f2973770c6eb9cb9
 
 - SELECT title, description FROM film;
 
